@@ -1,0 +1,13 @@
+Instructions
+###############################
+-Install the follwing with pip3 install <module name>
+PIL
+-or alternatively, download python pillow
+-Before you run the game, please copy and paste contents within each python file
+into a single python file.
+-Paste SquarePal(ModalApp) to the end
+-Be sure to download all jpg and png within the same folder as your python files
+-To add new levels, simple drag a jpg/png image into the same folder as 
+your other images and the python files
+-This game requires cmu_112_graphics to run
+-That's all, Have fun!
